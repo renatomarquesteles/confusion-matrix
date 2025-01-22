@@ -6,6 +6,6 @@ The code is designed to be executed in a Google Colab Notebook.
 
 ## Try it yourself
 
-<a target="_blank" href="https://colab.research.google.com/github/renatomarquesteles/confusion-matrix/blob/main/confusion-matrix.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/renatomarquesteles/confusion-matrix/blob/main/confusion_matrix.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
